@@ -1,7 +1,9 @@
 # HRMS Lite – Full-Stack Assignment
 
 **Live Frontend:** [https://hrms-backend-1-thsj.onrender.com] 
-**Live Backend:** [https://hrms-frontened-1cq9lke0h-abhishek-sonis-projects-30183332.vercel.app/]
+
+**Live Backend:** [https://hrms-frontened-phi.vercel.app/]
+
 **GitHub:** [https://github.com/Abhisheks0n1/HRMS-Lite]
 
 **Tech Stack**  
